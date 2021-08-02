@@ -8,5 +8,5 @@
 ##### 4.rabbitMQ
 ##### 5.nginx
 ##### 6.linux
-#### 算法
+#### 算法(./code)
 #### Python
